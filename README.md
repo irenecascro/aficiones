@@ -4,7 +4,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 # Deployment Site
 
-https://breakingbad-irene.netlify.app
+https://aficiones-irene.netlify.app
 
 ## Development server
 
